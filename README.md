@@ -2,7 +2,7 @@
 A Calculator built with Python and Tkinter GUI interface
 # Simple Calculator
 
-This is a simple calculator application I built using Python and Tkinter with inspiration from.
+This is a simple calculator application I built using Python and Tkinter.
 
 ## Features
 
